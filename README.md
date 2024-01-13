@@ -1,4 +1,4 @@
-#Dashboard em Power BI
+# Dashboard em Power BI    
 Dashboard Gerencial, básico, para um e-commerce, sobre as vendas e assim, traçar a melhor estratégia para alavancar resultados.    
 Conceito de Produto elaborado no Figma, abordando técnicas de Storytelling.
 
