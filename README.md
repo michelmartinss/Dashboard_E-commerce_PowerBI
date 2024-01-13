@@ -1,5 +1,6 @@
 # dashboard-e-commerce-power-bi
-Dashboard Gerencial, básico, para um e-commerce, sobre as vendas e assim, traçar a melhor estratégia para alavancar resultados.  
+Dashboard Gerencial, básico, para um e-commerce, sobre as vendas e assim, traçar a melhor estratégia para alavancar resultados.    
+Conceito de Produto elaborado no Figma, abordando técnicas de Storytelling.
 
 ## Tela 1
 <img src="https://github.com/michelmartinss/dashboard-e-commerce-power-bi/assets/31022049/33194125-c08a-4626-bd0d-bb1fd5d6dd36" width="600">
